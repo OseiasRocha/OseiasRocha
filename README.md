@@ -7,7 +7,7 @@
   - Kotlin
   - Flutter and Dart
   - Some game engine (Unreal, Unity, etc). This one is just for fun :smiley:
-- I work with C, C++ and Python. There's always something new on them, so I never stop learning :smiley:
+- I work with C, C++, Python and a little bit of Lua. There's always something new on them, so I never stop learning :smiley:
 - 💞️ I’m looking to collaborate on embedded software projects or kernel and OS.
 - 📫 How to reach me:
   - Email: <oseiaskr95@gmail.com>
