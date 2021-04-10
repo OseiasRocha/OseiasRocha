@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OseiasRocha
 - 👀 I’m interested in embedded software development, operating systems and networking.
-- 🌱 I’m currently learning FreeRTOS, VxWorks, Linux, and Qt.
+- 🌱 I’m currently learning FreeRTOS, VxWorks, Linux, cryptography and Qt.
 - 🌱 Next things to learn in my list are:
   - Rust
   - C#
@@ -8,7 +8,7 @@
   - Flutter and Dart
   - Some game engine (Unreal, Unity, etc). This one is just for fun :smiley:
 - I work with C, C++, Python and a little bit of Lua. There's always something new on them, so I never stop learning :smiley:
-- 💞️ I’m looking to collaborate on embedded software projects or kernel and OS.
+- 💞️ I’m looking to collaborate on embedded software projects, BSP, kernel and OS.
 - 📫 How to reach me:
   - Email: <oseiaskr95@gmail.com>
   - [Linkedin](https://www.linkedin.com/in/os%C3%A9ias-rocha-358700139/)
