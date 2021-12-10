@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OseiasRocha
-- 👀 I’m interested in embedded software development, operating systems and networking.
-- 🌱 I’m currently learning FreeRTOS, VxWorks, Linux, cryptography and Qt.
+- 👀 I’m interested in embedded software development, operating systems, computer networking and software defined radios.
+- 🌱 I’m currently learning VxWorks, Linux, cryptography and Qt.
 - 🌱 Next things to learn in my list are:
   - Rust
   - C#
