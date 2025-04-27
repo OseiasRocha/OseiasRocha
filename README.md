@@ -10,7 +10,7 @@
 - I work with C, C++, Python and a bit of Lua.
 -  I’m looking to collaborate on embedded software projects, BSP, kernel and OS.
 - 📫 How to reach me:
-  - Email: <oseiaskr95@outlook.com>
+  - Email: <oseiaskr95@gmail.com>
   - [Linkedin](https://www.linkedin.com/in/os%C3%A9ias-rocha-358700139/)
   - Phone/Whatsapp: +5551986097017
 
